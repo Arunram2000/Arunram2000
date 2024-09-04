@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://twitter.com/arunram90250906" target="blank"><img src="https://img.shields.io/twitter/follow/arunram90250906?logo=twitter&style=for-the-badge" alt="arunram90250906" /></a> </p>
 
-- 🔭 I’m currently working on [Talkgram](https://talkgram.in)
+- 🔭 I’m currently working on [RV Matrix](https://www.rvmatrix.in/)
 
-- 🌱 I’m currently learning **React native**
+- 🌱 I’m currently learning **Object detection, classification and segmentation of Images using AI**
 
 - 📫 How to reach me **arunram200001136@gmail.com**
 
